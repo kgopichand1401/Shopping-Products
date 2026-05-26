@@ -4,4 +4,4 @@ productid   name    price
 3          Ac      50000
 4          Car     900000
 5          Fridge  6000
-6          Laptop  85000
+6          Laptop  8500
